@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343550516123",
+    "project_id": "dam-u3-8-ac5d8",
+    "storage_bucket": "dam-u3-8-ac5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343550516123:android:efc295b85dff700c2c9f3e",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_ejercicio4_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhBmiI4yW6gmn-lgNHcpl_jBUc4fEEwlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
